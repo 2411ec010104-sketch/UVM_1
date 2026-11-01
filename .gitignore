@@ -1,0 +1,17 @@
+# Questa/ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vstf
+modelsim.ini
+questa.ini
+*.log
+*.jou
+*.bak
+*.tmp
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
